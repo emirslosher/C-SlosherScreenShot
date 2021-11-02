@@ -1,0 +1,21 @@
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\bin\Debug\ekran_goruntusu.exe.config
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\bin\Debug\ekran_goruntusu.exe
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\bin\Debug\ekran_goruntusu.pdb
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\obj\Debug\ekran_goruntusu.csprojResolveAssemblyReference.cache
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\obj\Debug\ekran_goruntusu.Form1.resources
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\obj\Debug\ekran_goruntusu.Form2.resources
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\obj\Debug\ekran_goruntusu.Properties.Resources.resources
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\obj\Debug\ekran_goruntusu.csproj.GenerateResource.Cache
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\obj\Debug\ekran_goruntusu.exe
+c:\users\cspr\documents\visual studio 2015\Projects\ekran_goruntusu\ekran_goruntusu\obj\Debug\ekran_goruntusu.pdb
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\bin\Debug\ekran_goruntusu.exe.config
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\bin\Debug\ekran_goruntusu.exe
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\bin\Debug\ekran_goruntusu.pdb
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\obj\Debug\ekran_goruntusu.csproj.AssemblyReference.cache
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\obj\Debug\ekran_goruntusu.Form1.resources
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\obj\Debug\ekran_goruntusu.Form2.resources
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\obj\Debug\ekran_goruntusu.Properties.Resources.resources
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\obj\Debug\ekran_goruntusu.csproj.GenerateResource.cache
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\obj\Debug\ekran_goruntusu.csproj.CoreCompileInputs.cache
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\obj\Debug\ekran_goruntusu.exe
+C:\Users\emirs\OneDrive\Masaüstü\ScreenShot-master\ekran_goruntusu\obj\Debug\ekran_goruntusu.pdb
